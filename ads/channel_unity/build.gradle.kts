@@ -49,7 +49,7 @@ afterEvaluate {
 
                 groupId = "com.github.karizal"
                 artifactId = "ads_channel_unity"
-                version = "1.1.0"
+                version = "1.0.0"
             }
         }
     }
